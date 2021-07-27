@@ -568,6 +568,18 @@ O site Rodovias Online é um serviço de Utilidade Pública, onde procuramos reu
 - https://concessionariatamoios.com.br/cameras/ver/8
 - https://concessionariatamoios.com.br/cameras/ver/13
 
+### Câmeras Orla Praia Grande
+- http://cameras.praiagrande.sp.gov.br/aovivo/
+        
+### Câmeras Santos
+- http://sspp.codesp.com.br:1480
+
+### Câmeras Santos - Ponta Praia - SP
+- https://www.janelas.tv.br/camera-ao-vivo/sp/santos/ponta-da-praia/
+    
+### Câmera Clima Guarujá - SP
+        
+### Câmera São Vicente - SP
 
 ### Câmeras Concessionária EcoRodovias
 - https://www.ecovias.com.br/condicoes-da-via#condition-camera
