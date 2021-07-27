@@ -578,8 +578,22 @@ O site Rodovias Online é um serviço de Utilidade Pública, onde procuramos reu
 - https://www.janelas.tv.br/camera-ao-vivo/sp/santos/ponta-da-praia/
     
 ### Câmera Clima Guarujá - SP
+- https://climaaovivo.com.br/sp/guaruja-hotel-cajueiro
+
+### Guarujá Balsa 1 - SP
+- https://app3.dersa.sp.gov.br/cameras/camera.aspx?f=guaruja        
+        
+### Guarujá Balsa 2 - SP
+- https://app3.dersa.sp.gov.br/cameras/camera.aspx?f=guaruja2
+        
+### Guarujá Balsa 3 - SP
+- https://app3.dersa.sp.gov.br/cameras/camera.aspx?f=guaruja3       
+        
+### Guarujá Balsa 4 - SP        
+- https://app3.dersa.sp.gov.br/cameras/camera.aspx?f=guaruja4
         
 ### Câmera São Vicente - SP
+- https://tadandoonda.com.br/camera-ao-vivo-em-sao-vicente/
 
 ### Câmeras Concessionária EcoRodovias
 - https://www.ecovias.com.br/condicoes-da-via#condition-camera
